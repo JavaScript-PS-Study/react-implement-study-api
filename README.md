@@ -1,6 +1,6 @@
 # React Implement Study - TODO API
 
-> JSPS 스터디 4주차 대면 모임 과제인 React 구현 스터디를 위한 TODO API 구현 레포입니다.
+> JSPS 스터디 4주차 대면 모임 과제인 React 구현 스터디를 위한 TODO API 레포입니다.
 
 ### 설치 및 실행
 
@@ -145,4 +145,4 @@ npm start
 
 ## API 구현 참고 문헌
 
-- [원티드 프리온보딩 프론트엔드 선발 과재](https://github.com/walking-sunset/selection-task)
+- [원티드 프리온보딩 프론트엔드 선발 과제](https://github.com/walking-sunset/selection-task)
