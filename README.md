@@ -46,7 +46,7 @@ npm start
 
 ### 요청
 
-- URL: `/todo`
+- URL: `/todo/all`
 - Method: `GET`
 
 ### 응답 예시
